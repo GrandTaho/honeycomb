@@ -9,7 +9,7 @@ A calendar app written in Rust
 ## Features
 * Shared Calendar
 * Countdown
-* Note
+* Note/picture per day
 * To-do
 
 ## Roadmap
